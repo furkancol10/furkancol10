@@ -3,7 +3,7 @@
 Junior full-stack geliştiriciyim, Bionluk'ta freelance çalışıyorum. Ağırlıklı olarak SvelteKit/TypeScript ve PostgreSQL ile web uygulamaları yazıyorum; Python, Docker ve biraz .NET de kullanıyorum. Son zamanlarda RAG ve AI projeleri üzerinde çalışıyorum.
 
 - Site: https://furkancol.me/
-- Bionluk: BIONLUK_LINKI_BURAYA
+- Bionluk: https://bionluk.com/furkancol19
 
 ## Öne çıkan projeler
 
