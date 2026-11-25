@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="400" viewBox="0 0 640 400" role="img" aria-label="fc-fiyat-takip">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0b2a1f"/><stop offset="1" stop-color="#14573f"/></linearGradient></defs>
+<rect width="640" height="400" fill="url(#g)"/>
+<g font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" fill="#e6edf3">
+<text x="40" y="70" font-size="18" fill="#7ee787">$ price --watch</text>
+<text x="40" y="170" font-size="44" font-weight="700" font-family="system-ui,-apple-system,Segoe UI,sans-serif">fc-fiyat-takip</text>
+<text x="40" y="225" font-size="20" fill="#a5b4c8">FastAPI + Jinja2 + PostgreSQL</text>
+<text x="40" y="260" font-size="20" fill="#a5b4c8">Rakip fiyat takibi, uyarı kuralları</text>
+<text x="40" y="295" font-size="20" fill="#a5b4c8">Telegram bildirimi (demoda dry_run)</text></g></svg>
