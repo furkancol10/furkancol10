@@ -7,9 +7,9 @@ Junior full-stack geliştiriciyim, Bionluk'ta freelance çalışıyorum. Ağırl
 
 ## Öne çıkan projeler
 
-- [fc-randevu-sistemi](https://github.com/furkancol10/fc-randevu-sistemi): randevu/rezervasyon sistemi. [Demo](https://02-randevu-sistemi.vercel.app)
-- [fc-qr-menu](https://github.com/furkancol10/fc-qr-menu): QR menü ve WhatsApp sipariş. [Demo](https://fc-qr-menu.vercel.app)
-- [fc-mini-crm](https://github.com/furkancol10/fc-mini-crm): teknik servis ve küçük ajanslar için teklif/iş takip paneli (SvelteKit + PostgreSQL). [Demo](https://fc-mini-crm.vercel.app)
+- [fc-randevu-sistemi](https://github.com/furkancol10/fc-randevu-sistemi): randevu/rezervasyon sistemi. [Demo](https://fc-randevu-sistemi.vercel.app/demo-kuafor)
+- [fc-qr-menu](https://github.com/furkancol10/fc-qr-menu): QR menü ve WhatsApp sipariş. [Demo](https://fc-qr-menu.vercel.app/demo-kafe)
+- [fc-mini-crm](https://github.com/furkancol10/fc-mini-crm): teknik servis ve küçük ajanslar için teklif/iş takip paneli (SvelteKit + PostgreSQL). [Demo](https://fc-mini-crm.vercel.app/giris)
 - [code-repo-rag](https://github.com/furkancol10/code-repo-rag): Git reposu üzerinde kod-farkında RAG. AST chunking, BM25 + vektör hibrit arama (RRF), cevaplar file:line kaynaklı.
 - [turkish-notes-rag](https://github.com/furkancol10/turkish-notes-rag): Türkçe notlar üzerinde framework'süz RAG. CPU'da Türkçe embedding, Ollama, retrieval eval.
 - [INTSHOP](https://github.com/furkancol10/INTSHOP): stok/sipariş paneli (Svelte). [Demo](https://stok-panel-three.vercel.app)
