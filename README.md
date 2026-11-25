@@ -13,3 +13,4 @@ Junior full-stack geliştiriciyim, Bionluk'ta freelance çalışıyorum. Ağırl
 - [code-repo-rag](https://github.com/furkancol10/code-repo-rag): Git reposu üzerinde kod-farkında RAG. AST chunking, BM25 + vektör hibrit arama (RRF), cevaplar file:line kaynaklı.
 - [turkish-notes-rag](https://github.com/furkancol10/turkish-notes-rag): Türkçe notlar üzerinde framework'süz RAG. CPU'da Türkçe embedding, Ollama, retrieval eval.
 - [INTSHOP](https://github.com/furkancol10/INTSHOP): stok/sipariş paneli (Svelte). [Demo](https://stok-panel-three.vercel.app)
+- [CardStudio](https://github.com/furkancol10/CardStudio): tarayıcıda kartvizit tasarım aracı, vCard QR kodlu, PNG çıktı, kurulumsuz. [Demo](https://cardstudio-gamma.vercel.app)
