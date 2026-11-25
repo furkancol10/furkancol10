@@ -7,10 +7,6 @@ Fiş ve belge OCR'ı, küçük işletmelere web uygulamaları ve otomasyon geli�
 </p>
 
 <p align="center">
-AI ajanlarla geliştiriyorum; yazılan kodu okur, test eder ve savunabilirim.
-</p>
-
-<p align="center">
   <a href="https://furkancol.me/"><img src="https://img.shields.io/badge/Site-furkancol.me-ff6a3d?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Site"></a>
   <a href="https://bionluk.com/furkancol19"><img src="https://img.shields.io/badge/Bionluk-furkancol19-00a86b?style=for-the-badge" alt="Bionluk"></a>
 </p>
