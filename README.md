@@ -3,7 +3,11 @@
 </p>
 
 <p align="center">
-Junior full-stack geliştiriciyim, Bionluk'ta freelance çalışıyorum. Ağırlıklı olarak SvelteKit/TypeScript ve PostgreSQL ile web uygulamaları yazıyorum; Python, Docker ve biraz .NET de kullanıyorum. Son zamanlarda RAG ve AI projeleri üzerinde çalışıyorum.
+Fiş ve belge OCR'ı, küçük işletmelere web uygulamaları ve otomasyon geliştiriyorum. Teslim ettiğim işi ölçer, sonucunu yazarım.
+</p>
+
+<p align="center">
+AI ajanlarla geliştiriyorum; yazılan kodu okur, test eder ve savunabilirim.
 </p>
 
 <p align="center">
@@ -14,6 +18,12 @@ Junior full-stack geliştiriciyim, Bionluk'ta freelance çalışıyorum. Ağırl
 <p align="center">
   <img src="https://skillicons.dev/icons?i=svelte,ts,postgres,py,docker,dotnet,vercel" alt="SvelteKit, TypeScript, PostgreSQL, Python, Docker, .NET, Vercel">
 </p>
+
+## Ölçülmüş işler
+
+- **Fiş OCR** (müşteri projesi, kaynak kod müşteride): 277 gerçek fiş fotoğrafı, geliştirme (221) ve hiç görülmemiş test (56) olarak ayrıldı. Vergi fişlerinde %72 otomatik doğrulama, fiş başına yaklaşık 1,8 sn, yalnızca işlemcide. Müşterinin sunucusuna HTTPS API olarak kuruldu, yük testiyle ölçüldü. Ayrıntı: [furkancol.me](https://furkancol.me/)
+- **Cari Takip** (örnek proje): alacak ve taksit takibi, tek .exe masaüstü programı, iş kuralları 49 otomatik testle doğrulandı.
+- **code-repo-rag ve turkish-notes-rag**: yerel RAG projeleri; tuning ve dondurulmuş test setleri ayrı. code-repo-rag'da hibrit arama hit@5 0,92 (59 soru), kavramsal sorulardaki zayıflık (hit@1 0,52) README'de açıkça yazılı.
 
 ## Öne çıkan projeler
 
