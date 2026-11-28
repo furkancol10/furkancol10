@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-Fiş ve belge OCR'ı, küçük işletmelere web uygulamaları ve otomasyon geliştiriyorum. Teslim ettiğim işi ölçer, sonucunu yazarım.
+Küçük işletmeler için fiş/belge OCR ve otomasyon · SvelteKit, Python, PostgreSQL · Ölçülmüş teslim
 </p>
 
 <p align="center">
