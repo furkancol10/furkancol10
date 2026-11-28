@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.svg" alt="Furkan - Full-stack geliştirici" width="100%">
+  <img src="assets/banner.svg" alt="Furkan Çöl - Full-Stack Developer" width="100%">
 </p>
 
 <p align="center">
